@@ -1,0 +1,17 @@
+html, body {
+ 
+  margin: 3%;
+  padding: 0;
+   
+  font: 1.2em "Consolas", sans-serif;
+  
+}
+canvas {
+  display: block;
+}
+textarea {
+ color:green; 
+ font-size:large;
+  background: black;
+  font: 1.2em "Consolas", sans-serif;
+}
